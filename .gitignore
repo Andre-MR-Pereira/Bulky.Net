@@ -1,0 +1,6 @@
+*.json
+BulkyWeb/wwwroot/lib/bootstrap/*
+BulkyWeb/wwwroot/lib/jquery-validation-unobtrusive/*
+BulkyWeb/wwwroot/lib/jquery-validation/*
+BulkyWeb/wwwroot/lib/jquery/*
+BulkyWebRazor_Temp/*

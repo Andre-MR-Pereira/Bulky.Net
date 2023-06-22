@@ -1,0 +1,14 @@
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.runtimeconfig.json
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.genruntimeconfig.cache
+C:\Users\andremipereira\Documents\Tutorials_Deloitte\.Net\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
